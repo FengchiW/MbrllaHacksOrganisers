@@ -1,2 +1,2 @@
-# MbrllaHacksOrganisers
+# MbrllaHacksOrganizers
 Project for mbralla hacks
